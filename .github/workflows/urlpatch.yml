@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'ftp://192.168.1.6:2121/Download/recovery.img'
+        default: 'file:///D:/ISO/SAMFW.COM_SM-A025F_XXV_A025FXXS8CXH1_fac/recovery.img'
         required: true
         type: string
 

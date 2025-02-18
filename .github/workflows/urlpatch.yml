@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'https://limewire.com/assets/<file-id>/<file>.img'
+        default: 'https://drive.usercontent.google.com/download?id=19VPuB6ToS7J5F_xdydXJU-U078vNqKTa&export=download'
         required: true
         type: string
 

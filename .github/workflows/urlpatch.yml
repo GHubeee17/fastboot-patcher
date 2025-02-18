@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'https://mega.nz/file/uiBWkB6a#rjoAXrkxov4w9SRIq5MzaCJ64sFCP5GMrBx9nbVhjs8'
+        default: 'https://www.mediafire.com/file/ghob9wav6kfg4b1/recovery.img/file'
         required: true
         type: string
 

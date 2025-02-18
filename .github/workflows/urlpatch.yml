@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'file:///D:/ISO/SAMFW.COM_SM-A025F_XXV_A025FXXS8CXH1_fac/recovery.img'
+        default: 'https://mega.nz/file/uiBWkB6a#rjoAXrkxov4w9SRIq5MzaCJ64sFCP5GMrBx9nbVhjs8'
         required: true
         type: string
 

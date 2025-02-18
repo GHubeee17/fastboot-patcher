@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'https://drive.usercontent.google.com/download?id=19VPuB6ToS7J5F_xdydXJU-U078vNqKTa&export=download'
+        default: 'https://drive.usercontent.google.com/download?id=19VPuB6ToS7J5F_xdydXJU-U078vNqKTa&export=download&authuser=0&confirm=t&uuid=51344147-1fb2-4f1e-855e-d27a9ed9ea39&at=AIrpjvMPMR9vNzNqVeiwq2NRwGV0%3A1739847762011'
         required: true
         type: string
 
